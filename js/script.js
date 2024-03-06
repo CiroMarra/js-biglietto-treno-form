@@ -34,7 +34,7 @@ calcButton.addEventListener('click', function () {
  document.getElementById('ticket').innerHTML = ticketCash;  
  
  
- console.log(finalPrice); 
+ console.log(finalPrice.toFixed(2)); 
 })
 
 

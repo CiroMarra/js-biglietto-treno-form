@@ -1,0 +1,14 @@
+
+.ms-bgcolor {
+    background-image: url("https://t4.ftcdn.net/jpg/05/72/74/29/360_F_572742916_qPTAW8xsyveTqP2qyrDkSQ0HozkHj4cZ.jpg");
+    background-size: cover;
+}
+
+.ms-opacity {
+    opacity: .85;
+}
+
+.red {
+    color: red;
+    font-weight: bolder;
+}
